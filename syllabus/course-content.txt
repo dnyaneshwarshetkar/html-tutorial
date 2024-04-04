@@ -1,0 +1,29 @@
+HTML 5​
+
+CSS​
+
+Bootstrap ​
+
+JavaScript, TypeScript​
+
+SPA Framework (Any One Stack)​
+
+Angular, Ionic Framework (Mobile App)​
+
+ReactJS, React Native (Mobile App)​
+
+NodeJS / Python / Java​
+
+MySQL​
+
+MongoDB​
+
+Cloud – AWS EC2, AWS Lambda​
+
+DevOps – Docker, Jenkins​
+
+Tools – Git, Postman, Jira Software, Confluence, Bitbucket/Github, VS Code, Android Studio, Android Emulator​
+
+AI Integration – AI Api integration​
+
+AI Tools – ChatGPT, Bard(Gemini), Code Debugger, copilots ​
