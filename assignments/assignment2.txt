@@ -1,0 +1,14 @@
+Assignment 2: HTML Tables
+
+Create an HTML table with the following structure:
+
+Table Title: "Student Grades"
+Table Headers:
+Student Name
+Math Grade
+Science Grade
+English Grade
+Table Rows:
+Add rows for at least three students with their corresponding grades in Math, Science, and English.
+Table Footer:
+Calculate and display the average grade for each subject.

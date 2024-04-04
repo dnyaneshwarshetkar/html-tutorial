@@ -1,0 +1,14 @@
+Assignment 3: HTML Semantic Elements
+
+Create an HTML document and demonstrate the use of semantic elements:
+
+Header:
+Include a header section containing your website's name/logo.
+Navigation:
+Create a navigation menu with links to different sections of your webpage.
+Main Content:
+Write an article on a topic of your choice.
+Sidebar:
+Include a sidebar with additional information or related links.
+Footer:
+Use a footer element to display copyright information and contact details.

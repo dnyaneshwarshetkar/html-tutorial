@@ -1,0 +1,18 @@
+Assignment 1: Basic HTML Structure
+
+Create a simple HTML document with the following structure:
+
+Title: "My First Webpage"
+Headings:
+Main heading: "Welcome to My Website"
+Subheading: "About Me"
+Paragraphs:
+Write a brief introduction about yourself under the "About Me" subheading.
+Image:
+Insert an image of your choice.
+Links:
+Include a link to your favorite website.
+List:
+Create an unordered list with at least three items about your hobbies or interests.
+Footer:
+Include your name and the current year.
