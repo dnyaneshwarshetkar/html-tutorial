@@ -1,0 +1,8 @@
+@font-face {
+    font-family: MaheshwariFont;
+    src: url(./fonts/arabica-c-demo/ArabicaChocolateDemoRegular.ttf);
+}
+
+p{
+    font-family: MaheshwariFont;
+}
