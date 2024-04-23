@@ -1,0 +1,39 @@
+/*
+Flex-Container
+flex-direction
+flex-wrap
+flex-flow
+justify-content
+align-items
+align-content
+
+
+Flex-Item Properties
+order
+flex-grow
+flex-shrink
+flex-basis
+flex
+align-self
+*/
+
+.container{
+    display:flex;
+    /*flex-direction:row;
+    flex-wrap:nowrap;*/
+    /*flex-flow:row wrap;*/
+    /*flex-wrap: wrap;*/
+    /*justify-content: space-evenly;*/
+    /*align-items:end;*/
+    flex-wrap: wrap;
+    height: 300px;
+    /*width: 500px;*/
+    align-content:space-evenly;
+
+}
+.container>div{
+    background-color:aquamarine;
+    padding: 3px;
+    border:2px solid;
+    /*width:20%;*/
+}

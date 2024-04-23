@@ -1,0 +1,4 @@
+.container{
+    background-color: red;
+    background-image: radial-gradient(pink,yellow,red);
+}

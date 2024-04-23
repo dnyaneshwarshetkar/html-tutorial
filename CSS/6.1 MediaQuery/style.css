@@ -1,0 +1,14 @@
+
+.container{
+    display:flex;
+    background-color: blue;
+    flex-direction: row;
+}
+
+
+@media screen and (width:375px) {
+    .container {
+        background-color: pink;
+        flex-direction: column;
+    } 
+}

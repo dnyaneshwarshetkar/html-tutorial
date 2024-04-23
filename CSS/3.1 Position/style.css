@@ -1,0 +1,10 @@
+#firstDiv {
+    position:relative;
+}
+#para2{
+    position:sticky;
+    /*top:30px;
+    left:5px;*/
+    left: 100px;
+    top:25px;
+}

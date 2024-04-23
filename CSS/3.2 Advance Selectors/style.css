@@ -1,0 +1,43 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.redPara{
+    background-color:red;
+}
+p{
+    color:yellow;
+}
+
+#yourDiv .secondPara{
+    background-color:pink;
+}
+
+/*#yourDiv>p{
+    color:blueviolet
+}*/
+.redPara ~ p{
+    color:bisque;
+}
+
+a:hover {
+    font-size: 30px;
+}
+.redPara::first-letter{
+    font-size:30px;
+}
+.redPara::first-line{
+    color:blue;
+}
+.redPara::before {
+    content: "Eklavya";
+    color:black;
+    background-color: blue;
+    /*position:absolute;
+    left: 0px;
+    top: 0px;*/
+}
+
+[title="Go To Google"]{
+    background-color: blue;
+    color:black;
+}
