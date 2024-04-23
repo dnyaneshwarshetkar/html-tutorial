@@ -1,0 +1,13 @@
+.container{
+    width: 100px;
+    height: 100px;
+    background-color: pink;
+    transition: width 2s,height 2s,background-color 2s;
+    /*transition-delay: 2s;*/
+    transition-timing-function: ease-in-out;
+}
+.container:hover{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+}
