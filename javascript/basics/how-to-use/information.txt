@@ -15,10 +15,3 @@ Javascript - to program the behavior of web pages
 #3. Can Change HTML Styles
 #4. Can Hide HTML Elements
 #5. Can Show HTML Elements
-
-- JavaScript can "display" data in different ways:
-
-#1. Writing into an HTML element, using innerHTML.
-#2. Writing into the HTML output using document.write().
-#3. Writing into an alert box, using window.alert().
-#4. Writing into the browser console, using console.log().

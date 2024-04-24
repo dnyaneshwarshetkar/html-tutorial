@@ -1,0 +1,24 @@
+- Syntax
+JavaScript syntax is the set of rules, how JavaScript programs are constructed.
+#1. JavaScript Values
+    - Fixed Values
+    - Variable Vaues
+#2. JavaScript Literals 
+    - numbers
+    - strings
+#3. JavaScript Operators
+
+#4. JavaScript Expressions
+
+#5. JavaScript Keywords
+
+#6. JavaScript Comments
+
+#7. JavaScript Identifiers / Names
+
+#8. JavaScript is Case Sensitive
+
+#9. JavaScript and Camel Case
+
+#10. JavaScript Character Set
+    - Unicode
