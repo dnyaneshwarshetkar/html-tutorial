@@ -190,3 +190,138 @@ console.log(f1.color);
 
 f1.increaseSpeed();
 
+
+// Array
+let studentArray = ["Prajakta", "Sushila", "Prashant","Yogesh","Manish"];
+
+console.log(studentArray[0],studentArray[3]);
+
+console.log(studentArray.length);
+
+studentArray.push("Ravish");
+console.log(studentArray[5]);
+
+console.log(studentArray.pop());
+
+console.log(studentArray.length);
+
+let primNumbers = [3,5,7,11,13,17];
+
+console.log(primNumbers[-1]);
+
+console.log(primNumbers.length);
+
+
+
+
+
+let arrayOfFans = [
+    {
+        color: "grey",
+        type: "tablefan",
+        price: 1300,
+        increaseSpeed: function(){
+            console.log("My Speed Increased");
+        },
+        decreaseSpeed: function(){
+            console.log("My Speed Decreased");
+        },
+        onOff: function(){
+    
+        }
+    },
+    {
+        color: "red",
+        type: "ceiling",
+        price: 2100,
+        increaseSpeed: function(){
+            console.log("My Speed Increased");
+        },
+        decreaseSpeed: function(){
+            console.log("My Speed Decreased");
+        },
+        onOff: function(){
+    
+        }
+    }
+];
+
+arrayOfFans[1].increaseSpeed();
+
+let currentDate = new Date();
+
+console.log(currentDate);
+
+console.log(currentDate.getDate());
+
+
+if(3>2){
+    console.log("If block");
+} else{
+    console.log("ELse Block");
+}
+
+var num1 = 1;
+
+if(num1<1){
+    
+}
+
+if(num1>2){
+    console.log("If Block");
+} else if(num1>3){  
+    console.log("Else if Block");
+} else if(num1>2){
+    console.log("2 Else If Block");
+} else {
+    console.log("Else Block");
+}
+
+let gender = "M";
+
+switch(gender){
+    case "M" :
+        console.log("Gender is M");
+        //break;
+    case "F":
+        console.log("Gender is F");
+        break;
+    default: 
+        console.log("Gender is neither M nor F");
+
+}
+
+
+// Functions
+
+function addition(num1, num2){
+    return num1+num2;
+}
+
+
+let addResult;
+
+addResult = addition(10,20);
+ console.log(addResult);
+
+
+for(
+    var i = 1;
+    i<=10;
+    i++){
+        console.log(i);
+}
+
+for(let singleStudent of studentArray){
+    console.log(singleStudent);
+}
+
+console.log(myLuckyNumber);
+
+var myLuckyNumber = 30;
+
+
+
+
+
+
