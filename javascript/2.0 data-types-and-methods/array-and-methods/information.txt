@@ -1,0 +1,44 @@
+- JavaScript Arrays
+    - Why Use Arrays?
+    - Creating an Array
+    - Why Use Arrays?
+    - Accessing Array Elements
+    - Changing an Array Element
+    - Converting an Array to a String
+    - Access the Full Array
+    - Arrays are Objects
+    - Array Elements Can Be Objects
+    - Array Properties and Methods
+    - The length Property
+    - Accessing the First Array Element
+    - Accessing the Last Array Element
+    - Looping Array Elements
+    - Adding Array Elements
+    - Associative Arrays
+    - The Difference Between Arrays and Objects
+    - When to Use Arrays. When to use Objects.
+    - JavaScript new Array()
+    - How to Recognize an Array
+- Basic Array Methods
+    - toString()
+    - at()
+    - join()
+    - pop()
+    - push()
+    - shift()
+    - unshift()
+    - delete()
+    - concat()
+    - copyWithin()
+    - flat()
+    - splice()
+    - toSpliced()
+    - slice()
+- JavaScript Array Search
+    - indexOf()
+    - lastIndexOf()
+    - includes()
+    - find()
+    - findIndex()
+    - findLast()
+    - findLastIndex()
