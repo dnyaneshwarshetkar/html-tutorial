@@ -1,0 +1,14 @@
+JavaScript Objects
+    - Real Life Objects, Properties, and Methods
+    - JavaScript Objects
+    - Object Definition
+    - Object Properties
+    - Accessing Object Properties
+    - Object Methods
+    - Accessing Object Methods
+This Keyword
+    - In an object method, this refers to the object.
+    - If used in glbal scope this refers to the global object.
+    - In a function, this refers to the global object.
+    - In a function, in strict mode, this is undefined.
+    - In an event, this refers to the element that received the event.

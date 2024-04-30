@@ -1,0 +1,4 @@
+JavaScript Modules
+    - Module
+    - import
+    - type="module"

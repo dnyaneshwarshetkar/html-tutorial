@@ -1,0 +1,11 @@
+ES6 Features
+    - Arrow Function
+    - ... operator (Spread Operator)
+    - Set Object
+    - Symbol
+    - Rest Parameters in function (...arguments)
+Javascript Async
+    - Callback function
+    - Promises
+    - Asynchronous
+    - Async/Await

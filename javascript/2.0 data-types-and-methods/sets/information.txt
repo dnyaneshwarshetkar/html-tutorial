@@ -1,0 +1,6 @@
+Javascript Sets
+    Set is a data structure use to store list of unique values.
+Set Methods
+    - add()
+    - clear()
+    - delete()

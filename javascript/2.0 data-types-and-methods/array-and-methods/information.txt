@@ -1,5 +1,4 @@
 - JavaScript Arrays
-    - Why Use Arrays?
     - Creating an Array
     - Why Use Arrays?
     - Accessing Array Elements
@@ -42,3 +41,32 @@
     - findIndex()
     - findLast()
     - findLastIndex()
+- Javascript Sort
+    - Alphabetic Sort
+        - Array sort()
+        - Array reverse()
+        - Array toSorted()
+        - Array toReversed()
+        - Sorting Objects
+    - Numeric Sort
+        - Numeric Sort
+        - Random Sort
+        - Math.min()
+        - Math.max()
+        - Home made Min()
+        - Home made Max()
+- Javascript Array Iteration
+    Array forEach
+    Array map()
+    Array flatMap()
+    Array filter()
+    Array reduce()
+    Array reduceRight()
+    Array every()
+    Array some()
+    Array from()
+    Array keys()
+    Array entries()
+    Array with()
+    Array Spread (...)
+- JavaScript Array Const

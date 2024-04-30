@@ -1,0 +1,7 @@
+- JavaScript Maps
+- JavaScript Map Methods
+    - set()
+    - get()
+    - clear()
+    - delete()
+    - has()
