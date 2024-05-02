@@ -4,3 +4,4 @@ Set Methods
     - add()
     - clear()
     - delete()
+    - has()

@@ -1,4 +1,5 @@
 JavaScript Modules
     - Module
     - import
+    - Export
     - type="module"

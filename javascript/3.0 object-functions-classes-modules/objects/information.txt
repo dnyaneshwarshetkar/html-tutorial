@@ -8,7 +8,7 @@ JavaScript Objects
     - Accessing Object Methods
 This Keyword
     - In an object method, this refers to the object.
-    - If used in glbal scope this refers to the global object.
+    - If used in global scope this refers to the global object.
     - In a function, this refers to the global object.
     - In a function, in strict mode, this is undefined.
     - In an event, this refers to the element that received the event.

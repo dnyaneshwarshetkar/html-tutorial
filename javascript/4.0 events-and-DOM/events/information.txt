@@ -1,0 +1,12 @@
+- JavaScript Events
+    - Common HTML Events
+        - Mouse Events
+            - onchange
+            - onclick
+            - onmouseover
+            - onmouseout
+        - Keyboard Events
+            - onkeydown
+            - onkeyup
+        - Browser Events
+            - onload
