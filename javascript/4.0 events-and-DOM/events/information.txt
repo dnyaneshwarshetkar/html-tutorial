@@ -10,3 +10,4 @@
             - onkeyup
         - Browser Events
             - onload
+            - onDomContentLoaded

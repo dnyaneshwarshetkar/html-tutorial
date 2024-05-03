@@ -1,50 +1,29 @@
-JavaScript HTML DOM
-    - With the HTML DOM, JavaScript can access and change all the elements of an HTML document.
-    - With the object model, JavaScript gets all the power it needs to create dynamic HTML:
-        JavaScript can change all the HTML elements in the page
-        JavaScript can change all the HTML attributes in the page
-        JavaScript can change all the CSS styles in the page
-        JavaScript can remove existing HTML elements and attributes
-        JavaScript can add new HTML elements and attributes
-        JavaScript can react to all existing HTML events in the page
-        JavaScript can create new HTML events in the page
-    - What is the HTML DOM?
-        The HTML DOM is a standard object model and programming interface for HTML. It defines:
-
-        The HTML elements as objects
-        The properties of all HTML elements
-        The methods to access all HTML elements
-        The events for all HTML elements
-        In other words: The HTML DOM is a standard for how to get, change, add, or delete HTML elements.
-    
-JavaScript - HTML DOM Methods
-    HTML DOM methods are actions you can perform (on HTML Elements).
-    HTML DOM properties are values (of HTML Elements) that you can set or change.
-
-JavaScript HTML DOM Document
-    The HTML DOM document object is the owner of all other objects in your web page.
-        document.getElementById(id)
-        document.getElementsByTagName(name)
-        document.getElementsByClassName(name)
-    Changing HTML Elements
-        Property -
-            element.innerHTML =  new html content
-            element.attribute = new value
-            element.style.property = new style
-        Methods - 
-            element.setAttribute(attribute, value)
-    Adding and Deleting Elements
-        Method	                        Description
-        document.createElement(element)	Create an HTML element
-        document.removeChild(element)	Remove an HTML element
-        document.appendChild(element)	Add an HTML element
-        document.replaceChild(new, old)	Replace an HTML element
-        document.write(text)	Write into the HTML output stream
-    Adding Events Handlers
-
-JavaScript HTML DOM Elements
-    Finding HTML elements by id
-    Finding HTML elements by tag name
-    Finding HTML elements by class name
-    Finding HTML elements by CSS selectors
-    Finding HTML elements by HTML object collections
+- DOM Intro
+    - When a browser initializes the Document Object Model (DOM)
+        1. Parsing HTML
+        2. Constructing the DOM Tree
+        3. Creating DOM Nodes
+        4. Applying CSS
+        5. Rendering
+        6. Executing JavaScript
+        7. DOMContentLoaded Event
+        8. Load Event
+- DOM Methods
+- DOM Document
+- DOM Elements
+- DOM HTML
+- DOM Forms
+- DOM CSS
+- DOM animations
+- DOM Events
+- DOM Event Listeners
+- DOM Navigation
+    - parentNode
+    - childNodes[nodenumber]
+    - firstChild
+    - lastChild
+    - nextSibling
+    - previousSibling
+- DOM Nodes
+- DOM Collections
+- DOM Node Lists
